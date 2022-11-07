@@ -1,1 +1,1 @@
-# second_unit
+# Introduction to C Programming
